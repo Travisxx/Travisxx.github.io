@@ -1,7 +1,57 @@
-.nav-wrapper {
-    background-color: #34374c;
+body {
+    background-color: #ffffff;
+    margin: 10% 10% 10%;
+    font-family: helvetica;
 }
 
-body {
-    background-color: #2c2e3e;
+header{
+    color: rgb(36, 36, 36);
+    font-size: 50px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.name{
+    color: #47a847;
+}
+
+.intro{
+    margin-bottom: 10%;
+}
+
+.container{
+    margin:0px 10% 0px;
+}
+.about h6{
+    color: #47a847;
+    text-decoration: underline;
+    text-decoration-color: #47a847;
+    font-weight: bold;
+}
+
+.info{
+    margin-bottom: 150px;
+}
+
+.skills{
+    font-weight: bold;
+}
+
+.projects{
+    font-weight: bold;
+}
+
+.tools li{
+   display: inline;
+   border: 1px solid #47a847;
+   color: #47a847;
+   font-weight: bold;
+   border-radius: 5px;
+   padding: 2px 2px;
+}
+
+a{
+    color: #47a847;
 }
